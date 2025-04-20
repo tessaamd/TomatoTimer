@@ -1,0 +1,22 @@
+# Xcode
+.DS_Store
+build/
+*.pbxuser
+*.perspectivev3
+xcuserdata/
+
+# Swift Package Manager
+.build/
+/*.xcodeproj
+
+# Dependencies
+Pods/
+DerivedData/
+
+# App specific
+*.xcbkptlist
+*.xcuserstate
+*.mlmodelc
+
+# Local History
+.localized
